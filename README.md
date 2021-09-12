@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my Github
+### Hi there 👋 I am Aijia. Welcome to my Github
 - 🔭 I’m currently working on Efficient video processing.
 
 <!--
