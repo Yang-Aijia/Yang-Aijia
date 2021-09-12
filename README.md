@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Aijia. Welcome to my Github
-- 🔭 I’m currently working on Efficient video processing.
+- 🔭 I’m currently working on efficient video understanding.
 - 
 
 <!--
